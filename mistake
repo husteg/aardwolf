@@ -1,0 +1,30 @@
+4472/5913hp 2290/4302mn 4124/4533mv 28qt 1021tnl] >
+
+[4472/5913hp 2290/4302mn 4124/4533mv 28qt 1021tnl] >
+gq ch
+You still have to kill 1 * Tjac, the Sunrise Leader (Secret Meeting Room)
+You still have to kill 1 * Lwji, the Sunrise great warrior (Sunrise Training Area)
+You still have to kill 2 * a fanatic audience (A smaller room in the tent)
+You still have to kill 2 * a tiger shark (Diving in the Uncharted Oceans)
+You still have to kill 1 * a group of adolescents (Center of the freak shows)
+You still have to kill 1 * a faithful accountant (Treasure Strongroom)
+You still have to kill 1 * a sleek jungle cougar (Too Dense to Continue)
+You still have to kill 1 * Damar the psychic (Planetarium)
+You still have to kill 1 * a mutated cerejellum (A well-crafted hallway)
+Note: One or more target names in this gquest might be slightly scrambled.
+Run-time error
+Plugin: TOL (called from world: Aardwolf)
+Function/Sub: camp_item_start called by trigger
+Reason: processing trigger "camp_item_start" when matching line: "Note: One or more target names in this gquest might be slightly scrambled."
+[string "Plugin: TOL"]:1197: attempt to index a nil value
+stack traceback:
+        [string "Plugin: TOL"]:1197: in function 'getRoomIdRoomCP'
+        [string "Plugin: TOL"]:1021: in function 'getRoomId'
+        [string "Plugin: TOL"]:973: in function 'buildRoomTable'
+        [string "Plugin: TOL"]:373: in function <[string "Plugin: TOL"]:364>
+You may win 3 more gquests at this level.
+You can be rewarded for 99 more kills this level.
+
+[4472/5913hp 2290/4302mn 4124/4533mv 28qt 1021tnl] >
+
+Your blood returns to normal.
